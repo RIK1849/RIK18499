@@ -15,7 +15,3 @@ Endpoint Security Engineer focused on endpoint protection, threat investigation,
 
 ## Stack
 `PowerShell` `Python` `Bash` `Windows Security` `EDR/XDR` `AWS` `Azure`
-
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=RIK1849&theme=aura&hide_border=true&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RIK1849&theme=aura&hide_border=true&layout=compact)
